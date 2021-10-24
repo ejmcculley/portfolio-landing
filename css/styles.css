@@ -50,7 +50,6 @@ body {
   margin-right: 60%;
   margin-bottom: 50px;
   padding: 1%;
-  
 }
 
 .row {
@@ -65,7 +64,7 @@ body {
   margin: 3%;
   padding: 17px;
   padding-top: 35px;
-  }
+}
 
 .col-md-4 {
   border-radius:25px;
