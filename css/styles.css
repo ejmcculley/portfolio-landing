@@ -1,0 +1,86 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  border-radius: 25px;
+  border: 3px solid black;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  background-color: white;
+}
+
+.headshot {
+  float: center;
+}
+
+.header {
+  border-radius: 25px;
+  text-align: center;
+  margin: 30px;
+  margin-top: 40px;
+  background-color: rgb(43, 43, 43);
+  color: white;
+}
+
+.hdtext {
+  margin-top: 20px;
+}
+
+.projheader {
+  color: white;
+  background-color: rgb(177, 113, 207);
+  margin-left: 5%;
+  margin-right: 60%;
+  padding: 1%;
+}
+
+.bgheader {
+  color: white;
+  background-color: rgb(236, 76, 76);
+  margin-left: 5%;
+  margin-right: 60%;
+  padding: 1%;
+}
+
+.igheader {
+  color: white;
+  background-color: rgb(53, 187, 113);
+  margin-left: -7%;
+  margin-right: 60%;
+  margin-bottom: 50px;
+  padding: 1%;
+  
+}
+
+.row {
+  padding: 5%;
+  margin-left: 5%;
+}
+
+.col-md-3 {
+  border-radius:25px;
+  background-color: white;
+  border: 2px solid black;
+  margin: 3%;
+  padding: 17px;
+  padding-top: 35px;
+  }
+
+.col-md-4 {
+  border-radius:25px;
+  background-color: white;
+  border: 2px solid black;;
+  margin: 6%;
+  margin-top: 20px;
+  margin-bottom: -30px;
+  padding: 20px;
+  padding-top: 35px;
+}
+
+h4 {
+  text-align: center;
+}
+
+
+
