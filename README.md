@@ -18,7 +18,7 @@ _This is the first Independed Project for Epicodus Full-Stack Bootcamp. I'm usin
 
 ## Setup/Installation Requirements
 
-* _NA_
+[Check out my Github Pages Link!](https://ejmcculley.github.io/portfolio-landing/)
 
 ## Known Bugs
 
