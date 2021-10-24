@@ -8,7 +8,7 @@
 
 * _HTML_
 * _CSS_
-*_Bootstrap_
+* _Bootstrap_
 * _Markdown_
 
 
