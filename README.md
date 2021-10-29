@@ -4,12 +4,14 @@
 
 #### _Beginners Web Development_
 
-## Technologies Used
+### Technologies Used
 
 * _HTML_
 * _CSS_
-*_Bootstrap_
+* _Bootstrap_
 * _Markdown_
+* _Git / Github_
+* _Terminal_
 
 
 ## Description
@@ -17,6 +19,18 @@
 _This is the first Independed Project for Epicodus Full-Stack Bootcamp. I'm using the HTML, CSS, Bootstrap, and Markdown learned in my first two weeks of class to create a landing page for my portfolio_
 
 ## Setup/Installation Requirements
+
+_You have two options for installation. The first, is to clone this repository and open the HTML file in your browser lcoally. To do this"_
+
+1. Click on the green "Code" button above this file list.
+2. Copy the HTTPS link (this is the default option).
+3. Open your local Terminal.
+4. Navigate to the local directory where you want the cloned directory to go.
+5. In your Terminal type "git clone" (without the quotes) then paste the URL you copied above. 
+6. Press 'enter' and the cloned directory should be copied to your current working directory.
+7. To view the HTML file (index.html), double click the file and the it will open in your web browser. 
+
+_Your second option is to click the Github Pages link below:_
 
 [Check out my Github Pages Link!](https://ejmcculley.github.io/portfolio-landing/)
 
